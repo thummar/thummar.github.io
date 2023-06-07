@@ -1,4 +1,11 @@
 ---
-layout: home
+layout: page
+# title: Home
 # Index page
 ---
+
+<div class="home">
+    {% capture index %}{% include index.md %}{% endcapture %}
+    {{ index | markdownify }}    
+</div>
+

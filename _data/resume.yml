@@ -1,0 +1,81 @@
+title: About me
+name: BHAVIN THUMMAR 
+jobtitle: iOS Enthusiast • Mobile Application Developer
+contact:
+  - icon: fa-envelope
+    text: thummarbhavin13@gmail.com
+  - icon: fa-phone-square
+    text: +1 647 870 1394
+  - icon: fab fa-linkedin
+    text: "@thummarbhavin"
+    link: https://www.linkedin.com/in/thummarbhavin
+  - icon: fab fa-github
+    text: "@thummar"
+    link: https://github.com/thummar
+education:
+  - university: Gujarat Technilogical University
+    duration: Jul 2009 - June 2013
+    location: India
+    major: Bachelor of Engineering, Information and Technology.
+skills:
+  - title: Programming Languages
+    items: Object-Oriented Programming (Swift, Objective-C), React Native, React JS
+  - title: Tools
+    items: Xcode, Visual Studio Code, Git, JIRA, Confluence, Slack, Jabber
+experience:
+  - title: Senior Consultant
+    duration: August 2018 - January 2023
+    company: CAPGEMINI TECHNOLOGY SERVICES INDIA LIMITED.
+    description: "
+    <ul>
+      <li>As a senior developer, contributing to the design, implementation, and deployment of various journeys for a banking application in the financial sector.</li>
+      <li>Oversaw the design and development of various card servicing features, including Monthly Spend Limits, Virtual Cards, Balance Transfers, Travel Plans, Card Activation, Reset Pin, and Cash Installments for notable projects, including the mobile banking application.</li>
+      <li>Participated in hiring process by conducting technical interviews, providing valuable input on hiring decisions, and mentoring team members to enhance their technical skills and advance their careers.</li>
+      <li>Conducted regular code reviews, implemented unit tests and UI tests, checked code coverage, utilized CheckmarX and Sonar tools, and ensured adherence to coding standards and best practices. Incorporated accessibility features such as VoiceOver, Display, and text to enhance user-friendliness of applications.</li>
+      <li>Collaborated with cross-functional teams to develop user-friendly interfaces, ensure regulatory compliance, enhance the banking experience, define technical architecture, and provide valuable technical input on project planning and estimation while ensuring seamless integration of the application with backend APIs and data platforms.</li>
+      <li>Actively participated in daily stand-up meetings, sprint planning, retrospectives, and backlog grooming sessions, ensuring that my team members followed Agile best practices.</li>
+    </ul>
+    <br>
+    <b>Key achievement:</b> Successfully developed and launched applications in over 7 countries, primarily in the Asian market.
+    "
+  - title: iOS Software Engineer
+    duration: January 2017 - June 2018
+    company: SOORYEN TECHNOLOGIES.
+    description: "
+    <ul>
+      <li>Collaborated throughout the entire application life cycle, contributing to the initial concept and design, as well as the build, deployment, testing, and release to the app store.</li>
+      <li>Contributed to creating clear and concise documentation that described the application features, their functionality, and relevant implementation details, which could aid future development efforts.</li>
+      <li>Collaborated closely with designers, product managers, and other stakeholders in the Travel, Tourism, and Hospitality industry to understand project requirements and develop innovative solutions tailored to meet the unique needs of users in this specific domain.</li>
+      <li>Collaborated with cross-functional teams to develop reusable components and libraries, ensuring high standards of quality and functionality. Participated in code reviews and testing to ensure component quality.</li>
+      <li>Developed user-facing features using ReactJS and related technologies such as Redux, Webpack, and Thunk. Optimized components for performance across multiple devices and browsers. Stayed up-to-date with industry trends and addressed any troubleshooting and debugging issues.</li>
+    </ul>
+    "
+  - title: iOS Developer
+    duration: August 2014 - December 2016
+    company: INNOVIFY BUSINESS INTELLIGENCE SERVICES PRIVATE LIMITED.
+    description: "
+    <ul>
+      <li>Utilized Agile and Waterfall development methodologies to create user-friendly interfaces, collaborate with cross- functional teams, and meet tight deadlines in various domains such as social, health, and travel. Developed multiple apps from scratch and integrated third-party libraries to implement features and functionality.</li>
+      <li>Developed clean, efficient, and maintainable iOS applications using Swift and Objective-C programming languages.</li>
+      <li>Optimized application to ensure high performance and compatibility across a range of iOS devices and versions.</li>
+      <li>Troubleshot and debugged development and deployment issues, ensuring timely delivery of high-quality app releases.</li>
+      <li>Maintained knowledge of new trends, iOS releases, and app store guidelines to ensure adherence to industry best practices and enhance the overall user experience.</li>
+    </ul>
+    "
+projects:
+  - name: Mobile Banking (Card Servicing Features)
+    description: The mobile banking application's card servicing features enable customers to manage their credit and debit cards conveniently from their mobile devices.
+    contribution: Contributor and maintainer.
+  - name: HotelBids
+    description: This application will assist users in finding the best hotel deal using bid booking procedures.
+    contribution: Creator.
+  - name: Unilator(Globr)
+    description: The application provides a unique platform to communicate across people of different languages, cultures, and backgrounds as it requires an effective and accurate translation mechanism. The chat system is built using the XMPP framework.
+    contribution: Creator.
+languages:
+  - name: English
+    proficiency: Work proficiency
+  - name: Hindi
+    proficiency: Work proficiency
+  - name: Gujarati
+    proficiency: Native
