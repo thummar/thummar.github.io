@@ -199,3 +199,4 @@ jekyll-archives:
     category: /categories/:name/
 
 show_downloads: true
+color: green
